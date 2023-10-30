@@ -1,0 +1,45 @@
+html {
+  background-color:whitesmoke;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.header {
+ background-color: burlywood;
+}
+
+.site_nav {
+  background-color: antiquewhite;
+  text-align: center;
+
+}
+
+.site_nav li {
+  display: list-item;
+  list-style: none;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+}
+article {
+  background-color: ivory;
+  margin: 1rem;
+}
+
+aside {
+  background-color: beige;
+  margin: 1rem;
+}
+
+
+.main_footer {
+  background-color: burlywood;
+  text-align: center;
+}
